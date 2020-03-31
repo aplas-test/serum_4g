@@ -1,20 +1,24 @@
 {
-  "id": "serum_4g",
-  "name": "Serum 4G",
-  "categoryId": "platform",
-  "description": "Profit-focused composite capability",
-  "investment_24m": "784",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "237",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "391",
-  "deployment_date": "29/11/02",
-  "end_of_maintenance": "22/6/17",
-  "department": "Sales",
-  "status": "Active",
-  "end_of_life": "25/4/18",
-  "months_to_renew_support": "23",
-  "sme_email": "Rosa.Philliphs@memento.net.au",
-  "investment_number": "156"
+  "applications": [
+    {
+      "id": "serum_4g",
+      "name": "Serum 4G",
+      "categoryId": "platform",
+      "description": "Profit-focused composite capability",
+      "investment_24m": "784",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "237",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "391",
+      "deployment_date": "29/11/02",
+      "end_of_maintenance": "22/6/17",
+      "department": "Sales",
+      "status": "Active",
+      "end_of_life": "25/4/18",
+      "months_to_renew_support": "23",
+      "sme_email": "Rosa.Philliphs@memento.net.au",
+      "investment_number": "156"
+    }
+  ]
 }
